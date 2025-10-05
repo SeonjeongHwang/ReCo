@@ -1,0 +1,347 @@
+- - -
+
+### Example 1
+
+Passage: 
+(1) There was a new maths teacher and some new students in the school.
+(2) One of the new students named Karl was very confused.
+(3) The other students tried to explain   numbers to him, but he didn't understand.
+(4) Before Karl arrived, maths was the most boring lesson of all.
+(5) Now it was great fun.
+(6) The children would listen to Karl and correct his mistakes.
+(7) They all wanted to be the first to find his mistakes, and then tried to think up the best ways to explain them.
+(8) But little Lewis was sure that Karl felt sad and wanted to talk with him.
+(9) So, one day, he decided to walk after Karl after school.
+
+Statement: The students tried to think up the best ways to explain to Karl.  
+
+Step-by-step reasoning:
+
+1. Analyze the Statement
+   - Content words: students, tried, think up, best ways, explain, Karl
+
+2. Locate Supporting Evidence in the Passage
+   - Sentence (7): "They all...tried to think up the best ways to explain them."
+
+3. Compare the Statement and Evidence
+   - All content words match exactly with the passage
+   - "They" in the passage refers to "students" → anaphora resolution
+   - "His" in the passage refers to "Karl" → anaphora resolution
+   - No paraphrasing is present
+   - The order of content words is exactly the same
+
+4. Identify the Type of Relationship
+   - No paraphrasing
+   - No reordering
+   - Minor anaphora resolution only
+
+Answer: Word Matching
+
+### Example 2
+
+Passage: 
+(1) The Chinese tradition of giving gifts of money in red envelopes at Lunar New Year has turned into big business for Web giants Alibaba and Tencent, which now both offer electronic "hong bao".
+(2) At the end of each lunar year, it is common in China to give children hong bao -- some money in envelopes that are red, the colour of success.
+(3) It is now possible to exchange "red envelopes" with smartphone, which is popular in China and has caused a battle  for the mobile payment market between the two companies providing the service, Tencent and Alibaba.
+(4) The idea was introduced in 2014 by WeChat, a mobile messaging system with over 400 million users and run[:]by Tencent, China's largest Internet service system.
+(5) It was successful at once.
+(6) This year, Alipay Wallet , the payment system run by Alibaba, is ready to take on the competition.
+(7) It is allowing its 190 million users to send digital gifts, especially on the Twitter-like Sina Weibo.
+(8) For the past few weeks a digital battle has been terrible, with Tencent banning  Alipay from sending red envelopes on WeChat, saying they were at a risk.
+(9) Recently, WeChat also blocked  Alibaba's music app Xiami.
+(10) To attract the public's attention, the two companies have launched lotteries through which they award red envelopes to users in an online game.
+(11) It's easy to send and receive hong bao or take part in the lotteries: you simply need to register  your bank details.
+
+Statement: The idea of electronic red envelope was introduced by Wechat in 2014. 
+
+Step-by-step reasoning:
+
+1. Analyze the Statement
+   - Content words: idea, electronic, red envelope, introduced, WeChat, 2014
+
+2. Locate Supporting Evidence in the Passage
+   - Sentence (4): "The idea was introduced in 2014 by WeChat..."
+
+3. Compare the Statement and Evidence
+   - The phrase "The idea of electronic red envelope" refers to the same concept as "The idea" in sentence (4), supported by the previous context → anaphora resolution
+   - The ordering in the statement is: "was introduced by WeChat in 2014"
+   - The ordering in the passage is: "was introduced in 2014 by WeChat"
+   - All content words appear with the same surface form
+   - No content words are paraphrased
+   - Only reordering occurs
+   - Anaphora resolution required to link "the idea" to "the idea of electronic red envelope," based on the prior sentences
+
+4. Identify the Type of Relationship
+   - Same content words are used
+   - Reordering is present
+   - No paraphrasing
+   - Meaning is fully explicit in the passage
+
+Answer: Transformed Word Matching
+
+### Example 3
+
+Passage: 
+(1) "You know, these cups brings to my mind a story I heard," Mary said to her students.
+(2) She poured some tea.
+(3) There were four of them and there were four completely different cups on the tables.
+(4) "I heard there was a teacher who took all his students for tea.
+(5) His students were surprised that all the cups on the table were different.
+(6) They all took a cup and started drinking their tea, each looking at the cups of others.
+(7) The teacher said, "Did you notice your behavior?
+(8) You are all looking at each other's tea cup and some of you even envy the finer cups of others."
+(9) "I put the different cups here on purpose.
+(10) I want to say life is like this tea.
+(11) You all have the same thing in your cups----tea.
+(12) And yet you cannot truly enjoy it in your envy of another's cup.
+(13) You forget to enjoy your own life when you envy someone else's life.
+(14) We all have the same thing----life.
+(15) We should care more about the tastes of your own life. 
+
+Statement: There was the same tea in different cups.  
+
+Step-by-step reasoning:
+
+1. Analyze the Statement
+   - Content words: same, tea, different, cups
+
+2. Locate Supporting Evidence in the Passage
+   - Sentence (11): "You all have the same thing in your cups----tea."
+   - Sentence (3): "There were four of them and there were four completely different cups on the tables."
+
+3. Compare the Statement and Evidence
+   - Sentence (11) supports the idea of "same tea"
+   - Sentence (3) supports the idea of "different cups"
+   - All content words from the statement appear in the evidence
+   - No paraphrasing is used
+   - The phrase order in the statement ("same tea in different cups") is different from how it appears in the passage (split across two sentences: "same thing in your cups—tea" and "different cups")
+
+4. Identify the Type of Relationship
+   - No paraphrasing
+   - All content words are present
+   - Reordering is required to construct the statement from evidence
+   - Minor integration from multiple sentences is allowed when all content is explicit
+
+Answer: Transformed Word Matching
+
+### Example 4
+
+Passage: 
+(1) A young man woke up one morning under a bridge and checked his pocket.
+(2) All he had left was less than ten dollars.
+(3) He bought food and as he sat down to eat, an old man and two children came along.
+(4) The old man asked him to help them with food as they had not eaten for almost a week.
+(5) The young man looked at the children---they were so weak that they could hardly stand.
+(6) With the last bit of kindness he had he gave them all the food.
+(7) The old man and children thanked the young man and then gave him a dirty old coin.
+(8) The young man said, "You need this coin more than I do--- just keep it."
+(9) The old man insisted  that the young man put it in his pocket---and finally he did.
+(10) The old man and children sat down to eat.
+(11) And with no money, no job and no food, the young man went back under the bridge to lie down.
+
+Statement: The young man thought the old man needed the coin more than he did.  
+
+Step-by-step reasoning:
+
+1. Analyze the Statement
+   - Content words: young man, thought, old man, needed, coin, more, he did
+
+2. Locate Supporting Evidence in the Passage
+   - Sentence (8): "The young man said, 'You need this coin more than I do--- just keep it.'"
+
+3. Compare the Statement and Evidence
+   - Content words align semantically:
+     - "thought" (in statement) ↔ "said" (in passage) → paraphrase
+     - "you" (in passage) ↔ "old man" (in statement) → anaphora resolution
+     - "I" (in passage) ↔ "he" (in statement) → anaphora resolution
+   - "coin," "more," and "young man" appear identically
+   - Order of content words is maintained
+   - One paraphrased word: "thought" ↔ "said"
+
+4. Identify the Type of Relationship
+   - One content word is paraphrased
+   - The rest of the content words are preserved in meaning and order
+   - Anaphora resolution is permitted and not considered paraphrasing
+
+Answer: Paraphrasing
+
+### Example 5
+
+Passage: 
+(1) Without any previous notice, a documentary dominated headlines and social websites over the weekend.
+(2) Under the Dome, a 103-minute documentary self-funded by former CCTV news anchor Chai Jing was released on video-sharing websites in China on Feb 28.
+(3) It has rapidly pushed the public awareness about air pollution and encouraged people to join in efforts to make a difference.
+(4) Chai, 39, said she started the work out of her "personal clashes" with smog after she gave birth to a daughter.
+(5) "I sealed tight all the windows.
+(6) I started every day by checking the air pollution index," Chai said.
+(7) Millions of other people are also doing the same.
+(8) While they stop there, Chai goes deeper.
+(9) "I don't want to live in this way.
+(10) 1 need to find out where the smog comes from and what on earth is going on."
+
+Statement: The documentary was made by Chai jing, who no longer works in CCTV.  
+
+Step-by-step reasoning:
+
+1. Analyze the Statement
+   - Content words: documentary, made, Chai Jing, no longer works, CCTV
+
+2. Locate Supporting Evidence in the Passage
+   - Sentence (2): "Under the Dome, a 103-minute documentary self-funded by former CCTV news anchor Chai Jing was released..."
+
+3. Compare the Statement and Evidence
+   - "Documentary" and "Chai Jing" appear directly
+   - "Self-funded by" aligns with "made by" → paraphrased
+   - "Former CCTV news anchor" aligns with "no longer works in CCTV" → paraphrased
+   - The information order differs: the passage starts with “former CCTV” and ends with “Chai Jing,” while the statement begins with “Chai Jing” and ends with “CCTV”
+
+4. Identify the Type of Relationship
+   - Multiple content words are paraphrased
+   - The phrase order is rearranged
+   - Meaning is preserved and all information is explicitly present
+
+Answer: Transformed Paraphrasing
+
+### Example 6
+
+Passage: 
+(1) An air of anxious uncertainty spread throughout the small Indian camp as the sun dawned that morning.
+(2) Some braves gathered beside a smoking campfire.
+(3) Murmuring sounds could be heard as they talked quietly.
+(4) Women nervously performed their domestic tasks, preparing a small meal.
+(5) Several sad, old men sat mute, their morale very low.
+(6) The camp was pitched at the edge of a deep valley--so deep that one could barely see the calm water at the bottom.
+(7) The Indians had been taken by surprise and were surrounded and attacked by enemy forces.
+(8) They fought bravely, but they were degraded by defeat.
+(9) Their homes were destroyed.
+(10) Those who had survived had been pursued by the enemy.
+(11) The chase  had lasted for days.
+(12) Persuaded by their leaders to press on, they had made a wrong turn.
+(13) Their exhausting journey ended at the edge of a valley--a desperate situation.
+(14) Before them was a great hole in the earth.
+(15) Behind them was the enemy.
+(16) No wonder they were frozen with fear.
+(17) Where could they go?
+(18) Just when no choice seemed available to them, several young braves ran into camp.
+
+Statement: The Indians in the camp were in a serious situation because they took a wrong course.  
+
+Step-by-step reasoning:
+
+1. Analyze the Statement
+   - Content words: Indians, camp, serious, situation, took, wrong, course
+
+2. Locate Supporting Evidence in the Passage
+   - Sentence (12): "Persuaded by their leaders to press on, they had made a wrong turn."
+   - Sentence (13): "Their exhausting journey ended at the edge of a valley--a desperate situation."
+
+3. Compare the Statement and Evidence
+   - "Serious situation" ↔ "desperate situation" → paraphrased
+   - "Took a wrong course" ↔ "made a wrong turn" → paraphrased
+   - The statement reverses the order of information: it gives the result first ("serious situation") and the reason second ("wrong course"), while the passage presents the reason first and then the result
+   - "They" in the evidence refers to "The Indians in the camp" → anaphora resolution
+   - All content is explicitly present, but both wording and order are changed
+
+4. Identify the Type of Relationship
+   - Multiple content words are paraphrased
+   - The order of information is rearranged
+   - Anaphora resolution is involved (they → the Indians in the camp)
+   - Meaning is preserved and fully supported by the passage
+
+Answer: Transformed Paraphrasing
+
+### Example 7
+
+Passage: 
+(1) Hello!
+(2) My name is Kitty.
+(3) I want to talk about my home town today.
+(4) My home town is small but pretty.
+(5) It's about two hours away from London by train.
+(6) In the centre of the town there is a small lake.
+(7) There are lots of trees and flowers around the lake.
+(8) My parents often walk around the lake at the weekend.
+(9) The air in my home town is very fresh   and clean.
+(10) There are two schools in my home town, one primary school and one secondary school.
+(11) I study in the secondary school and my younger sister studies in the primary school.
+(12) I often ride my bike to school.
+
+Statement: There is no air pollution in Kitty's home town.  
+
+Step-by-step reasoning:
+
+1. Analyze the Statement
+   - Content words: no, air, pollution, Kitty, home town
+
+2. Locate Supporting Evidence in the Passage
+   - Sentence (9): "The air in my home town is very fresh and clean."
+
+3. Compare the Statement and Evidence
+   - The statement asserts the absence of air pollution
+   - The evidence describes the air as "very fresh and clean"
+   - The phrase "no air pollution" does not appear explicitly
+   - "Fresh and clean" implies no pollution, but this requires interpreting the meaning beyond the literal surface
+   - The subject "Kitty's home town" is indirectly established through the speaker ("My name is Kitty") and possessive references in context ("my home town")
+
+4. Identify the Type of Relationship
+   - No direct word match or paraphrasing
+   - The connection between "fresh and clean" and "no air pollution" is inferential
+   - Anaphora resolution: "my home town" ↔ "Kitty's home town"
+   - Requires reasoning to map the implication of air quality
+
+Answer: Inference
+
+### Example 8
+
+Passage: 
+(1) Many people think sports are just for winning and honor, but there is a lot more you can gain from (get out of) them.
+(2) I have learned over the past years that sometimes when I lose, I get a lot more out of it than winning.
+(3) Also, I find a lot of times in sports, people are getting too caught up in the game instead of just having fun.
+(4) The real purpose of sports is to have fun and learn life lessons along the way.
+(5) I greatly encourage you to be a part of the school sports.
+(6) Even if you are not the best, you can still have fun.
+(7) Sports give people a great and healthy way of spending an afternoon, instead of lying around playing video games or even getting into bad things.
+(8) Sports also give us a sense of achievement.
+(9) There isn't a better feeling than to have done something fun and productive for my day.
+(10) I think that we all need sports to give us courage.
+(11) If we try hard in sports, we usually do well.
+(12) If we did the same in study, we would all be champions.
+(13) Another reason why I encourage you to play sports is that it's just fun.
+(14) Without sports, our lives would just be boring.
+(15) So as you may be able to tell, sports are amazing!
+(16) Our coaches not only teach us to play sports, but show class and good sportsmanship while playing them.
+(17) It's never fun when you lose to have the competitor rub it in your face.
+(18) That's why our coaches teach us to show class when we lose; also, when coaches get mad , don't get down.
+(19) They only want to see you improve and learn from what they say.
+(20) When you do badly and they don't shout loudly is when you should start worrying because they are giving up on you.
+(21) Overall, sports are great!
+(22) They bring out the best and worst of a lot of us.
+(23) However, we can' t let sports get too serious to where it brings down all the fun.
+(24) So to have the most fun in sports, you just need try your best and not worry so much about the winning or losing.  
+
+Statement: We should take pleasure in doing sports.  
+
+Step-by-step reasoning:
+
+1. Analyze the Statement
+   - Content words: should, take pleasure, doing, sports
+
+2. Locate Supporting Evidence in the Passage
+   - Sentence (4): "The real purpose of sports is to have fun and learn life lessons along the way."
+   - Sentence (6): "Even if you are not the best, you can still have fun."
+   - Sentence (13): "Another reason why I encourage you to play sports is that it's just fun."
+   - Sentence (24): "So to have the most fun in sports, you just need try your best and not worry so much about the winning or losing."
+
+3. Compare the Statement and Evidence
+   - The statement conveys a general principle: that sports should be enjoyed
+   - Several sentences support this idea using different wording and phrasing
+   - No single sentence in the passage matches the statement in content word or order
+   - No direct paraphrase or reordering is sufficient to reconstruct the statement from any one sentence
+   - The meaning is synthesized from a broader pattern across multiple sentences
+
+4. Identify the Type of Relationship
+   - The statement generalizes and abstracts over multiple explicit ideas in the passage
+   - It requires inferencing and synthesis to bridge from multiple affirmations about fun to the conclusion about taking pleasure
+   - No paraphrasing or reordering suffices—logical inference is required
+
+Answer: Inference

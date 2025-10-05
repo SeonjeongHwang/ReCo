@@ -1,0 +1,39 @@
+You are given a passage and a statement. 
+Your task is to label the relationship between a statement and the evidence that can be wholly or partially derived from the supporting sentence within a passage.
+
+The possible labels are:
+
+1. Non-transformation
+The statement has the same meaning as the evidence with the phrase order unchanged.
+- Words or phrases that are semantically aligned between the evidence and the statement must appear in the same order.
+- Anaphora resolution, which involves replacing an anaphoric expression with its referent, is not considered transformation.
+
+2. Transformation
+The statement has the same meaning as the evidence but the phrases are rearranged.
+- The order of semantically aligned words or phrases between the evidence and the statement must be different, reflecting a meaningful reordering.
+- Grammatical changes alone—without any change in phrase order—are not considered transformations.
+- Anaphora resolution, which involves replacing an anaphoric expression with its referent, is not considered transformation.
+
+General Guidance:
+- Avoid relying on memorized examples; always apply criteria based on the text's transformation pattern and semantic fidelity.
+- When deriving the evidence from the passage, it is acceptable to omit words or phrases not included in the statement, as long as the remaining sequence has the same meaning as statement. The omitted material must not affect the core meaning or introduce reinterpretation.
+
+Think step-by-step.
+After your reasoning, return your answer in the following format:
+
+```
+Answer: Non-transformation
+```
+
+{ few_shot_examples }
+
+- - -
+
+### Input
+
+Passage: 
+{ passage }  
+
+Statement: { statement }  
+
+Step-by-step reasoning:

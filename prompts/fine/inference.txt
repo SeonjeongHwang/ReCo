@@ -1,0 +1,45 @@
+You are given a passage and a statement. 
+Your task is to label the relationship between a statement and the evidence that can be wholly or partially derived from the supporting sentence within a passage.
+
+The possible labels are:
+
+1. Non-inference
+The statement can be derived directly from the evidence without requiring any inference or background knowledge.
+These are the applicable cases:
+- The statement appears in almost the same surface form as the evidence, with no changes in content words or phrase order.
+- The statement contains exactly the same content words as the evidence, but their order has been changed.
+- The statement has the same meaning as the evidence, with the phrase order unchanged, but one or more content words are paraphrased.
+- The statement has the same meaning as the evidence, but one or more content words are paraphrased, and the phrases are also rearranged.
+- - Anaphora resolution, which involves replacing an anaphoric expression with its referent, is not considered inference.
+
+2. Inference
+The statement that cannot be derived by paraphrasing the evidence or reordering phrases. The statement is either implied by the evidence or must be inferred from it.
+These are the applicable cases:
+- The statement includes information not explicitly stated in the evidence and requires understanding of information implicitly embedded in the evidence through context or world knowledge.
+- The evidence entails the statement, but the statement does not entail the evidence—indicating a one-way logical relationship.
+- The statement is derived from the evidence through reasoning, including deductive or inductive inference.
+- The statement is constructed by combining multiple pieces of information scattered across the passage, and the resulting meaning involves a level of abstraction or generalization not directly expressed in the passage.
+
+General Guidance:
+- Avoid relying on memorized examples; always apply criteria based on the text's transformation pattern and semantic fidelity.
+- When deriving the evidence from the passage, it is acceptable to omit words or phrases not included in the statement, as long as the remaining sequence has the same meaning as statement. The omitted material must not affect the core meaning or introduce reinterpretation.
+
+Think step-by-step.
+After your reasoning, return your answer in the following format:
+
+```
+Answer: Non-inference
+```
+
+{ few_shot_examples }
+
+- - -
+
+### Input
+
+Passage: 
+{ passage }  
+
+Statement: { statement }  
+
+Step-by-step reasoning:

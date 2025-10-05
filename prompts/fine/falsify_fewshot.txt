@@ -1,0 +1,145 @@
+- - -
+
+### Example 1
+
+Passage: 
+(1) "Can I see my baby?" asked the happy new mother.
+(2) When the baby was in her arms, she couldn't believe her eyes.
+(3) The baby was born without ears.
+(4) Time proved  that the baby's hearing was very good though he had no ears.
+(5) He got on well with his classmates.
+(6) But one day, he said to his mother, tears in his eyes, "A big boy called me a freak  ."  
+
+Not True Statement: The boy couldn't hear without ears at first.
+
+Step-by-step reasoning:
+
+1. Understand the Statement
+   - Statement: "The boy couldn't hear without ears at first."
+   - Label: Not True
+   - Key claim: The boy was initially unable to hear due to being born without ears.
+
+2. Retrieve Relevant Information from the Passage
+   - Sentence (3): States the baby was born without ears.
+   - Sentence (4): States that his hearing was very good despite that.
+
+3. Assess Scope of Evidence
+   - Sentence (4) directly contradicts the claim.
+   - It clearly references both the boy’s physical condition (no ears) and his ability (good hearing).
+
+Answer: Contradiction
+
+### Example 2
+
+Passage: 
+(1) Do you obey the rules in your school?
+(2) What do you think of your school rules?
+(3) Are you allowed to dye   hair?
+(4) A lot of school rules are similar around the world, but some are different.
+(5) Some students may enjoy more freedom in some countries.
+(6) But freedom doesn't mean "no rules".
+(7) Every school has its own rules.
+(8) There are some rules in Japanese schools.
+(9) The students are not allowed to dye their hair and are supposed to keep their hair black.
+(10) In Japan, students are not allowed to have part-time jobs.
+(11) American schools have their own rules too.
+(12) For example, at Morton High School, students are not allowed to choose their own clothes.
+(13) They must get to school or leave school on time.
+(14) Food, drinks or snacks shouldn't be taken into the classroom.
+
+Not True Statement: The students can eat things in class in America.
+
+Step-by-step reasoning:
+
+1. Understand the Statement  
+   - Statement: "The students can eat things in class in America."
+   - Label: Not True
+   - Key claim: American students are allowed to eat in class.
+
+2. Retrieve Relevant Information from the Passage  
+   - Sentence (11): Introduces American schools.
+   - Sentence (14): "Food, drinks or snacks shouldn't be taken into the classroom."
+
+3. Assess Scope of Evidence  
+   - Sentence (14) directly refutes the claim.
+
+Answer: Contradiction
+
+### Example 3
+
+Passage: 
+(1) Hello!
+(2) My name is Kitty.
+(3) I want to talk about my home town today.
+(4) My home town is small but pretty.
+(5) It's about two hours away from London by train.
+(6) In the centre of the town there is a small lake.
+(7) There are lots of trees and flowers around the lake.
+(8) My parents often walk around the lake at the weekend.
+(9) The air in my home town is very fresh   and clean.
+(10) There are two schools in my home town, one primary school and one secondary school.
+(11) I study in the secondary school and my younger sister studies in the primary school.
+(12) I often ride my bike to school.
+(13) I usually go to the youth centre to learn drawing with my sister on Friday afternoons.
+(14) I like going shopping at the weekend.
+(15) There are two big shopping malls there.  
+
+Not True Statement: Kitty often takes a walk with her friends around the lake.
+
+Step-by-step reasoning:
+
+1. Understand the Statement  
+   - Statement: "Kitty often takes a walk with her friends around the lake."
+   - Label: Not True
+   - Key claim: Kitty and her friends often walk around the lake.
+
+2. Retrieve Relevant Information from the Passage  
+   - Sentence (6): Describes the location of the lake.
+   - Sentence (7): Describes the scenery around the lake.
+   - Sentence (8): "My parents often walk around the lake at the weekend." → The only mention of walking around the lake.
+
+3. Assess Scope of Evidence  
+   - No sentence states that Kitty or her friends walk around the lake.
+   - The passage is silent on Kitty's walking habits there.
+   - No contradiction, but also no support.
+
+Answer: Insufficient
+
+### Example 4
+
+Passage: 
+(1) As part of an effort to improve treatments for life-threatening illnesses, a team of scientists have created rabbits that glow in the dark.
+(2) The efforts have produced two rabbits out of a litter of eight that went from being a normal, soft white to glowing green in the dark.
+(3) The rabbits were born at the University of Istanbul as part of the cooperation between scientists from universities in Turkey and Hawaii.
+(4) The rabbits glow to show that a genetic operation technique can work efficiently.
+(5) "The green is not important at all--it's just a marker to show the experiment can be done successfully," said University of Hawaii associate professor, Stefan Moisyadi.
+(6) To produce the glowing effect, researchers injected jellyfish DNA into a mother rabbit's embryos.
+(7) Then those embryos were put into the mother.
+(8) Similar experiments have resulted in glowing cockroaches  and cats.
+(9) Eventually, the researchers hope the technique can lead to new ways to produce medicines, Moisyadi said.
+(10) "The final goal is to develop animals that are able to produce beneficial molecules in their milk that can be cheaply extracted , especially in countries that cannot afford big factories that make drugs, which usually cost US$1bn to build.
+(11) Then they will be able to produce their own protein-based medication in animals," Moisyadi said.
+(12) The rabbits are expected to live as long as non-glowing rabbits, but Moisyadi said he understands people can object to this kind of experimentation involving live animals.
+(13) "To the people against, I say: think, what are the benefits and what is the harm?" Moisyadi said.
+(14) "And if the benefits outweigh the harm, let's go with the benefits."
+(15) Moisyadi started developing the project in 2006, and researchers are now waiting to see if pregnant sheep produce similar results.  
+
+Not True Statement: The success rate in creating the rabbits is 20%.
+
+Step-by-step reasoning:
+
+1. Understand the Statement  
+   - Statement: "The success rate in creating the rabbits is 20%."
+   - Label: Not True
+   - Key claim: There is a quantified success rate (20%) in creating rabbits.
+
+2. Retrieve Relevant Information from the Passage  
+   - Sentence (2): “The efforts have produced two rabbits out of a litter of eight that went from being a normal, soft white to glowing green in the dark.” → 2 glowing rabbits out of 8 born.
+   - No mention of total embryos used, implantation attempts, or expectations for success.
+
+3. Assess Scope of Evidence  
+   - The statement uses "success rate," but the passage lacks context for defining the base population (e.g., embryos injected, expected outcomes).
+   - It’s unclear whether "20%" refers to glowing results or something else.
+   - Without clear denominator data, we cannot confirm or refute the 20% rate.
+
+Answer: Insufficient

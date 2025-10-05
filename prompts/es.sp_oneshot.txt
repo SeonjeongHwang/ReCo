@@ -1,0 +1,15 @@
+- - -
+
+### Example
+
+Passage: 
+(1) "Can I see my baby?" asked the happy new mother.
+(2) When the baby was in her arms, she couldn't believe her eyes.
+(3) The baby was born without ears.
+(4) Time proved  that the baby's hearing was very good though he had no ears.
+(5) He got on well with his classmates.
+(6) But one day, he said to his mother, tears in his eyes, "A big boy called me a freak  ."  
+
+Not True Statement: The boy couldn't hear without ears at first.
+
+Answer: Single

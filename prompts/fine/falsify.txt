@@ -1,0 +1,25 @@
+You are given a passage and a statement that may not be true according to the passage.
+Your task is to determine whether the statement is contradicted by the passage or whether there is insufficient information to make that determination.
+
+1. Contradiction: The statement directly conflicts with information explicitly stated in the passage.
+2. Insufficient: The passage does not provide enough information to determine the truth of the statement.
+
+Think step-by-step.
+After your reasoning, return your answer in the following format:
+
+```
+Answer: Contradiction
+```
+
+{ few_shot_examples }
+
+---
+
+### Input
+
+Passage: 
+{ passage }  
+
+{ factuality } Statement: { statement }  
+
+Step-by-step reasoning:

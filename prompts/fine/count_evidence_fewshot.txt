@@ -1,0 +1,183 @@
+- - -
+
+### Example 1
+
+Passage: 
+(1) "Can I see my baby?" asked the happy new mother.
+(2) When the baby was in her arms, she couldn't believe her eyes.
+(3) The baby was born without ears.
+(4) Time proved  that the baby's hearing was very good though he had no ears.
+(5) He got on well with his classmates.
+(6) But one day, he said to his mother, tears in his eyes, "A big boy called me a freak  ."  
+
+Not True Statement: The boy couldn't hear without ears at first.
+
+Step-by-step reasoning:
+
+1. Understand the Statement
+   - The statement claims that the boy was initially unable to hear due to having no ears, suggesting a delay in developing hearing ability.
+
+2. Retrieve Relevant Information from the Passage
+   - Sentence (3): "The baby was born without ears." → confirms he lacked ears.
+   - Sentence (4): "Time proved that the baby's hearing was very good though he had no ears." → addresses the hearing ability directly.
+
+3. Evaluate the Evidence
+   - Sentence (4) directly contradicts the statement by stating that the baby had very good hearing despite having no ears.
+   - The phrase "time proved" refers to discovery or confirmation over time, not a delayed development of hearing.
+   - Therefore, the boy could hear from the beginning, and the statement is factually incorrect.
+
+4. Check Sufficiency
+   - Sentence (4) alone contains both the physical condition (no ears) and the auditory ability (good hearing), making it sufficient to refute the claim.
+   - It addresses the main components of the statement without requiring additional support.
+
+5. Anaphora Resolution
+   - "The baby" in Sentence (4) is anaphoric and refers unambiguously to the same child introduced in Sentence (1).
+   - Continuity of the character is maintained throughout the passage; no other potential referents are introduced.
+
+6. Conclusion
+   - Sentence (4) alone is enough to refute the statement. 
+   - It clearly indicates that the boy always had good hearing, despite his lack of ears.
+
+Answer: 1
+
+### Example 2
+
+Passage: 
+(1) It's a warm summer afternoon.
+(2) You're cooking up the catch of the day over a campfire.
+(3) Suddenly, a few raindrops fall on your arms, and before you know it, the sky is opened up.
+(4) There's a campsite picnic shelter a few minutes down the path.
+(5) And then you remember that your car is parked down the road.
+(6) Heading to your car is almost always the safest choice.
+(7) Your tent and a picnic shelter will keep you dry, but they offer little or no protection against lightening.
+(8) Your car, on the other hand, will keep you dry and protect you from lightening strikes.
+(9) Protecting yourself against possible lightening strikes is very important; lightening kills an average of 62 people in the US each year.
+(10) If you keep all of the windows and doors closed in your car, you'll be able to return to your campsite safely.
+(11) What else should you do?  
+
+True Statement: Lightening is a danger for campers.
+
+Step-by-step reasoning:
+
+1. Understand the Statement
+   - The statement claims that lightning is dangerous and that this danger specifically applies to campers.
+
+2. Retrieve Relevant Information from the Passage
+   - Sentence (9): "Protecting yourself against possible lightning strikes is very important; lightning kills an average of 62 people in the US each year." → explicitly states the danger.
+
+3. Evaluate the Evidence
+   - Sentence (9) establishes that lightning is a serious and potentially fatal threat.
+   - The second-person pronoun “you” used in Sentence (9) clearly refers to a camper, as all previous sentences describe a camping situation.
+   - Sentence (7) reinforces that common camping shelters don't provide safety from lightning.
+
+4. Check Sufficiency
+   - Sentence (9) alone conveys the danger of lightning.
+   - Because “you” is used consistently in a camping context, “yourself” in Sentence (9) refers unambiguously to a camper, making Sentence (9) sufficient to support the statement.
+
+5. Anaphora Resolution
+   - “Yourself” in Sentence (9) refers back to “you,” which is used consistently in the passage's camping scenario.
+   - The referent is unambiguous and centrally maintained throughout the passage.
+
+6. Conclusion
+   - Sentence (9) alone supports the truth of the statement.
+   - It affirms lightning’s danger, and the use of “you” clearly references a camper based on the consistent camping context.
+
+Answer: 1
+
+### Example 3
+
+Passage: 
+(1) Do you obey the rules in your school?
+(2) What do you think of your school rules?
+(3) Are you allowed to dye   hair?
+(4) A lot of school rules are similar around the world, but some are different.
+(5) Some students may enjoy more freedom in some countries.
+(6) But freedom doesn't mean "no rules".
+(7) Every school has its own rules.
+(8) There are some rules in Japanese schools.
+(9) The students are not allowed to dye their hair and are supposed to keep their hair black.
+(10) In Japan, students are not allowed to have part-time jobs.
+(11) American schools have their own rules too.
+(12) For example, at Morton High School, students are not allowed to choose their own clothes.
+(13) They must get to school or leave school on time.
+(14) Food, drinks or snacks shouldn't be taken into the classroom.
+
+Not True Statement: The students can eat things in class in America.
+
+Step-by-step reasoning:
+
+1. Understand the Statement
+   - The statement claims that students in America are allowed to eat in class, implying permissive classroom rules regarding food.
+
+2. Retrieve Relevant Information from the Passage
+   - Sentence (14): “Food, drinks or snacks shouldn't be taken into the classroom.” → directly contradicts the idea that students can eat in class.
+   - Sentence (12): “For example, at Morton High School…” → identifies this school as an example of an American school, grounding Sentence (14) in the context of America.
+
+3. Evaluate the Evidence
+   - Sentence (14) says that food, drinks, or snacks are not allowed in the classroom, contradicting the claim that students can eat in class.
+   - Sentence (12) shows that Morton High School is in America. Thus, the restriction in (14) applies to American students.
+   - Since the statement is labeled “Not True,” this contradiction confirms the statement is indeed false.
+
+4. Check Sufficiency
+   - Sentence (14) provides the rule against eating in class, but on its own, it does not specify the geographic context.
+   - Sentence (12) is necessary to confirm that the rule applies to an American school.
+   - Therefore, both sentences are needed to fully refute the statement.
+
+5. Anaphora Resolution
+   - Sentence (14) uses no pronouns but does rely on context to identify that the rule applies to an American school.
+   - Sentence (12) provides that context by introducing Morton High School as an example of a school in America.
+
+6. Conclusion
+   - Sentence (14) states the rule against bringing food into the classroom.
+   - Sentence (12) connects that rule to an American school, thereby refuting the statement.
+   - Both are needed to confidently determine the statement is not true.
+
+Answer: 2
+
+## Example 4
+
+Passage: 
+(1) My name is Nancy.
+(2) I'm twelve years old.
+(3) I have a good friend.
+(4) Her name is Wendy.
+(5) She is thirteen.
+(6) She is from Australia.
+(7) We are friends, but we are in different classes.
+(8) Wendy is in Class Four and I'm in Class Three.
+(9) I like green and blue but Wendy likes red and yellow.
+(10) She is a good student, and all the students and teachers in her class like her.
+(11) Wendy likes running, and she often runs after school.
+(12) I like basketball and football.
+
+True Statement: Everyone in Class Four likes Wendy.
+
+Step-by-step reasoning:
+
+1. Understand the Statement
+   - The statement claims that all individuals in Class Four (students and teachers) like Wendy.
+
+2. Retrieve Relevant Information from the Passage
+   - Sentence (8): "Wendy is in Class Four and I'm in Class Three." → establishes Wendy's class.
+   - Sentence (10): "She is a good student, and all the students and teachers in her class like her." → states that everyone in her class likes her.
+
+3. Evaluate the Evidence
+   - Sentence (10) asserts that all students and teachers in Wendy’s class like her.
+   - Sentence (8) confirms that Wendy’s class is Class Four.
+   - Taken together, these two statements confirm that everyone in Class Four likes Wendy.
+
+4. Check Sufficiency
+   - Sentence (10) refers to “her class” but does not specify “Class Four.”
+   - Sentence (8) is needed to explicitly identify Wendy’s class as Class Four.
+   - Therefore, both sentences are required to confidently support the statement.
+
+5. Anaphora Resolution
+   - Sentence (10) uses the pronoun “her” which refers to Wendy, introduced earlier and mentioned frequently.
+   - Sentence (8) ties Wendy to Class Four, resolving the identity of “her class” in Sentence (10).
+
+6. Conclusion
+   - Sentence (10) states that everyone in Wendy’s class likes her.
+   - Sentence (8) confirms that Wendy is in Class Four.
+   - Both are necessary to verify that everyone in Class Four likes Wendy.
+
+Answer: 2

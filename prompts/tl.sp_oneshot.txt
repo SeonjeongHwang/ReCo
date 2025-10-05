@@ -1,0 +1,18 @@
+- - -
+
+### Example
+
+Passage: 
+(1) There was a new maths teacher and some new students in the school.
+(2) One of the new students named Karl was very confused.
+(3) The other students tried to explain   numbers to him, but he didn't understand.
+(4) Before Karl arrived, maths was the most boring lesson of all.
+(5) Now it was great fun.
+(6) The children would listen to Karl and correct his mistakes.
+(7) They all wanted to be the first to find his mistakes, and then tried to think up the best ways to explain them.
+(8) But little Lewis was sure that Karl felt sad and wanted to talk with him.
+(9) So, one day, he decided to walk after Karl after school.
+
+Statement: The students tried to think up the best ways to explain to Karl.  
+
+Answer: Word Matching

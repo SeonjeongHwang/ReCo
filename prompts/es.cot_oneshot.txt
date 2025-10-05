@@ -1,0 +1,31 @@
+- - -
+
+### Example
+
+Passage: 
+(1) "Can I see my baby?" asked the happy new mother.
+(2) When the baby was in her arms, she couldn't believe her eyes.
+(3) The baby was born without ears.
+(4) Time proved  that the baby's hearing was very good though he had no ears.
+(5) He got on well with his classmates.
+(6) But one day, he said to his mother, tears in his eyes, "A big boy called me a freak  ."  
+
+Not True Statement: The boy couldn't hear without ears at first.
+
+Step-by-step reasoning:
+
+1. Understand the Statement
+   - Statement: "The boy couldn't hear without ears at first."
+   - Label: Not True
+   - Key claim: The boy was initially unable to hear due to being born without ears.
+
+2. Retrieve Relevant Information from the Passage
+   - Sentence (3): States the baby was born without ears.
+   - Sentence (4): States that his hearing was very good despite that.
+
+3. Assess Scope of Evidence
+   - Sentence (4) alone contains enough information to determine that the statement is not true.
+   - It clearly references both the boy’s physical condition (no ears) and his ability (good hearing).
+   - No anaphora resolution or cross-sentence inference is needed.
+
+Answer: Single

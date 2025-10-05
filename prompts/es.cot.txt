@@ -1,0 +1,31 @@
+You are given a passage and a statement labeled as either True or Not True based on the content of the passage. 
+Your task is to identify the evidence scope level among the following categories:
+
+1. Single-sentence comprehension (Single) applies when a single sentence in the passage contains all the information necessary to determine the truth of the statement.
+2. Inter-sentence comprehension (Inter) involves integrating information spread across multiple sentences to arrive at a judgment.
+3. Insufficient information recognition (Insufficient) applies when the passage does not provide enough information to determine the truth of the statement. This requires recognizing that the relevant information is missing, despite a full reading of the passage.
+
+General Guidance:
+If a single sentence fully supports or refutes the factuality of a statement, check whether that evidence sentence explicitly refers to all entities mentioned in the statement.
+- If the evidence sentence contains anaphoric expressions, and the referent is a central or frequently mentioned entity in the preceding context, it can be categorized as a case of single sentence comprehension.
+- If the referent was only briefly mentioned in the prior sentence and is not easily identifiable, then the sentence that explicitly introduces or clarifies the referent should also be considered as evidence. In such cases, categorize it as inter-sentence comprehension.
+
+Think step-by-step.
+After your reasoning, return your answer in the following format:
+
+```
+Answer: Insufficient
+```
+
+{ few_shot_examples }
+
+---
+
+### Input
+
+Passage: 
+{ passage }  
+
+{ factuality } Statement: { statement }  
+
+Step-by-step reasoning:

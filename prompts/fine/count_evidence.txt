@@ -1,0 +1,27 @@
+You are given a passage and a statement labeled as either True or Not True based on the content of the passage.
+Your task is to identify whether the full meaning of the statement is supported or contradicted by a single sentence, or whether it requires multiple sentences from the passage.
+
+- Find the parts of the passage that are required to support or refute the statement in whole or in part. If the passage does not provide enough information to determine the truth of the statement, the number of evidence sentences is 0.
+- Determine the minimum number of sentences needed to support or contradict all the facts expressed in the statement.
+- If a single sentence appears sufficient to refute the factuality of the statement, check whether the key entities in the statement are clearly and explicitly referred to in that sentence.
+- If the sentence uses anaphoric expressions (such as pronouns or general references), consider whether the referent is central or frequently mentioned in the passage, such that its identity can be easily and unambiguously inferred.
+- If the referent is not clearly identifiable from the sentence alone—especially when multiple possible antecedents exist—then the sentence that explicitly introduces or clarifies the referent should also be included as necessary evidence.
+
+Explain your reasoning process, then return your final answer in the following format.
+
+```
+Answer: Number of evidence sentences
+```
+
+{ few_shot_examples }
+
+---
+
+### Input
+
+Passage: 
+{ passage }  
+
+{ factuality } Statement: { statement }  
+
+Step-by-step reasoning:

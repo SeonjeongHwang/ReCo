@@ -1,0 +1,64 @@
+You are given a passage and a statement. 
+Your task is to label the relationship between a statement and the evidence that can be wholly or partially derived from the supporting sentence within a passage.
+
+The possible labels are:
+
+1. Word Matching
+The statement appears in almost the same surface form as the evidence, with no changes in content words or phrase order.
+- All content words (nouns, verbs, adjectives, and adverbs) in the statement are identical to those in the evidence.
+- No paraphrasing of content words is allowed.
+- The order of all content words and phrases in the statement is exactly the same as in the evidence.
+- Only minor changes to function words (e.g., prepositions, articles, auxiliary verbs) are allowed.
+- Anaphora resolution, which involves replacing an anaphoric expression with its referent, is not considered paraphrasing.
+
+2. Transformed Word Matching
+The statement contains exactly the same content words as the evidence, but their order has been changed.
+- All content words (nouns, verbs, adjectives, and adverbs) are present in both the statement and the evidence, with no paraphrasing.
+- Reordering of words, phrases, or sentences must occur. Grammatical changes alone—without any change in phrase order—are not considered transformations.
+
+3. Paraphrasing
+The statement has the same meaning as the evidence, with the phrase order unchanged, but one or more content words are paraphrased.
+- Paraphrasing refers to substituting content words (nouns, verbs, adjectives, and adverbs) with semantically equivalent alternatives.
+- Function words (e.g., prepositions, articles, auxiliary verbs) may differ and are not considered paraphrasing.
+- Anaphora resolution, which involves replacing an anaphoric expression with its referent, is not considered paraphrasing.
+- Words or phrases that are semantically aligned between the evidence and the statement must appear in the same order.
+
+4. Transformed Paraphrasing
+The statement has the same meaning as the evidence, but one or more content words are paraphrased, and the phrases are also rearranged.
+- Paraphrasing refers to replacing content words (nouns, verbs, adjectives, and adverbs) with semantically equivalent alternatives.
+- Function words (e.g., prepositions, articles, auxiliary verbs) may differ and are not considered paraphrasing.
+- Anaphora resolution, which involves replacing an anaphoric expression with its referent, is not considered paraphrasing.
+- Reordering of words, phrases, or sentences must occur. Grammatical changes alone—without any change in phrase order—are not considered transformations.
+- All pieces of information in the statement are explicitly mentioned in the evidence, even though some content words are paraphrased and the phrase order is rearranged.
+
+5. Inference
+The statement that cannot be derived by paraphrasing the evidence or reordering phrases. The statement is either implied by the evidence or must be inferred from it.
+These are the applicable cases:
+- The statement includes information not explicitly stated in the evidence and requires understanding of information implicitly embedded in the evidence through context or world knowledge.
+- The evidence entails the statement, but the statement does not entail the evidence—indicating a one-way logical relationship.
+- The statement is derived from the evidence through reasoning, including deductive or inductive inference.
+- The statement is constructed by combining multiple pieces of information scattered across the passage, and the resulting meaning involves a level of abstraction or generalization not directly expressed in the passage.
+
+General Guidance:
+- Avoid relying on memorized examples; always apply criteria based on the text's transformation pattern and semantic fidelity.
+- When deriving the evidence from the passage, it is acceptable to omit words or phrases not included in the statement, as long as the remaining sequence has the same meaning as statement. The omitted material must not affect the core meaning or introduce reinterpretation.
+
+Think step-by-step.
+After your reasoning, return your answer in the following format:
+
+```
+Answer: Transformed Word Matching
+```
+
+{ few_shot_examples }
+
+- - -
+
+### Input
+
+Passage: 
+{ passage }  
+
+Statement: { statement }  
+
+Step-by-step reasoning:
