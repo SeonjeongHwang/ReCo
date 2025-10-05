@@ -35,7 +35,7 @@ These two dimensions together capture how much **information integration** and *
 
 ## 2. Dataset
 
-**Source**: The dataset was reconstructed from a subset of reading comprehension (RC) items in **RACE**.
+**Source**: The dataset was reconstructed from a subset of reading comprehension (RC) items in [**RACE**](https://huggingface.co/datasets/ehovy/race).
 
 **Usage restriction**: In accordance with the original license, the dataset is available **for non-commercial research use only**. Redistribution or commercial use of any portion of the data is prohibited.
 
