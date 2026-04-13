@@ -1,14 +1,9 @@
 from utils.generator import Generator, GPT
-import torch, os, json, tqdm, random, time, re
-import numpy as np
-from torch.utils.data import DataLoader
+import torch, os, json, random, time, re
 import numpy as np
 import argparse
 from collections import Counter
 from evaluation import tl_evaluate, tl_inference, tl_paraphrasing, tl_transformation
-
-#import torch._dynamo 
-#torch._dynamo.config.cache_size_limit = 64
 
 args = None
 NICKNAME2NAME = {"gemma-s": "google/gemma-2-9b-it",

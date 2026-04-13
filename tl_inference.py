@@ -1,12 +1,9 @@
 from utils.generator import Generator, GPT
-import torch, os, json, tqdm, random, time, re
+import torch, os, json, random, time, re
 import numpy as np
 import argparse
 from collections import Counter
 from evaluation import tl_evaluate
-
-#import torch._dynamo 
-#torch._dynamo.config.cache_size_limit = 64
 
 args = None
 NICKNAME2NAME = {"gemma-s": "google/gemma-2-9b-it",
@@ -85,12 +82,6 @@ def get_examples(data_file):
     return id2examples
     
 def generate(model, id2examples, do_greedy=False):
-    map = {"Word Matching": 0,
-           "Paraphrasing": 1,
-           "Inference": 2,
-           "Transformed Word Matching": 3,
-           "Transformed Paraphrasing": 4}
-    
     fail = 0
     id_list, input_prompts = [], []
     id2pred = dict()
@@ -193,5 +184,4 @@ def main():
         json.dump({"score": scores, "config": vars(args), "result": id2examples}, fout, indent=3)
         
 if __name__ == '__main__':
-    #main()
     main()
